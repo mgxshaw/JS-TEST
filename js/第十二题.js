@@ -1,0 +1,1 @@
+const themeStr = window.localStorage.getItem("themeStr");
